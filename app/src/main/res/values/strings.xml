@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Комплексная система</string>
+    <string name="app_name2">«Комплексная система мониторинга здоровья»</string>
+    <string name="app_autor">Мартынов</string>
+    <string name="patient_data">Данные пациента</string>
+    <string name="text_fio">ФИО</string>
+    <string name="text_age">Возраст</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_pressure">Давление</string>
+    <string name="health_indicators">Показатели здаровья</string>
+    <string name="pressure_indicators">Показатели давления</string>
+    <string name="text_top">Верхнее давление</string>
+    <string name="text_lower">Нижнее давление</string>
+    <string name="text_pulse">Пульс</string>
+    <string name="text_tachycardia">Тахикардия</string>
+    <string name="date_of_measurement">Дата замера(дд/мм/гггг чч:мм)</string>
+    <string name="text_weight">Вес</string>
+    <string name="number_of_steps">Колличество шагов</string>
+    <string name="log_save_p">Пользователь нажал на кнопку сохранить в "Данные пациэнта"</string>
+    <string name="log_save_h">Пользователь нажал на кнопку сохранить в "Показатели здаровья"</string>
+    <string name="log_save_d">Пользователь нажал на кнопку сохранить в "Показатели давления"</string>
+    <string name="log_h">Пользователь нажал на кнопку  "Показатели здаровья"</string>
+    <string name="log_d">Пользователь нажал на кнопку  "Показатели давления"</string>
+    <string name="error_age">Проверте ввод возраста</string>
+    <string name="error_top">Проверте ввод вверхнего давления</string>
+    <string name="error_lower">Проверте ввод нижнего давления</string>
+    <string name="error_pulse">Проверте ввод нижнего пульса</string>
+    <string name="error_data">Проверте ввод даты</string>
+    <string name="error_step">Проверте ввод колличества шагов</string>
+    <string name="error_weight">Проверте ввод веса</string>
+    <string name="save">Сохранено</string>
+    <string name="button_save_d">Сохранить</string>
+
+</resources>
+
+
+
